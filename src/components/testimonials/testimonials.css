@@ -1,0 +1,144 @@
+.test-body {
+    display: flex;
+    /* gap: 1rem; */
+    padding: 0 2rem;
+}
+
+.test-header {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-weight: bold;
+    font-size: 1rem;
+    justify-content: center;
+    color: #234338;
+    text-transform: uppercase;
+    font-style: italic;
+    text-align: center;
+    margin-bottom: 2rem;
+    padding: 0 2rem;
+}
+
+.lefttest {
+    display: flex;
+    flex: 1;
+    gap: 2rem;
+    flex-direction: column;
+    text-transform: uppercase;
+    color: #234338;
+    padding: 2rem;
+    padding-left: 6rem;
+    line-height: 2;
+    position: relative;
+}
+
+.lefttest img {
+    width: 2rem;
+}
+
+.arrows {
+    display: flex;
+    gap: 1rem;
+    position: absolute;
+    bottom: 2rem;
+    right: 3rem;
+}
+
+.arrows div {
+    width: 1.5rem;
+    height: 1.5rem;
+    padding: 0.25rem;
+    border-radius: 25%;
+    background-color: #CBEA7B;
+}
+
+.arrows>div>img {
+    width: 1.5rem;
+    cursor: pointer;
+}
+
+.righttest {
+    flex: 1;
+    position: relative;
+}
+
+.righttest>img:nth-child(1) {
+    position: absolute;
+    width: 16rem;
+    height: 20rem;
+    object-fit: cover;
+    right: 8rem;
+    top: 1rem;
+    z-index: 7;
+}
+
+.righttest>img:nth-child(2) {
+    position: absolute;
+    width: 16rem;
+    height: 14rem;
+    object-fit: cover;
+    right: 8rem;
+    top: 2rem;
+}
+
+/* .righttest>:nth-child(1) {
+    position: absolute;
+    width: 15rem;
+    height: 14rem;
+    border: 2px solid #468671;
+    background-color: transparent;
+    right: 9rem;
+    top: 0.9rem;
+}
+
+.righttest>:nth-child(2) {
+    position: absolute;
+    width: 15rem;
+    height: 14rem;
+    background: var(--planCard);
+    right: 7rem;
+    top: 4rem;
+} */
+
+
+
+@media screen and (max-width:768px) {
+    .testimonials {
+        display: flex;
+        flex-direction: column;
+        gap: 1rem;
+        padding: 0 2rem;
+    }
+
+    .test-body {
+        flex-direction: column;
+    }
+
+    .lefttest {
+        gap: 1rem;
+        padding: 1rem;
+        line-height: 1.5;
+        padding-bottom: 5rem;
+    }
+
+    .lefttest img {
+        width: 1rem;
+    }
+
+    .arrows {
+        bottom: 1.5rem;
+        right: 50%;
+        transform: translateX(2.5rem);
+    }
+
+    .righttest {
+        margin-bottom: 14rem;
+    }
+
+
+
+    .test-header {
+        font-size: 0.8rem;
+    }
+}
