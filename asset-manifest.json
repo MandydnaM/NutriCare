@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/NutriCare/static/css/main.b8baf163.css",
-    "main.js": "/NutriCare/static/js/main.93c770be.js",
+    "main.js": "/NutriCare/static/js/main.2229ab27.js",
     "static/media/image2.png": "/NutriCare/static/media/image2.627d2ab8d8aa5decada5.png",
     "static/media/hero_image.png": "/NutriCare/static/media/hero_image.a11e76d7128fca43ec97.png",
     "static/media/image3.png": "/NutriCare/static/media/image3.90ee23b77b8db078bc9d.png",
@@ -15,10 +15,10 @@
     "static/media/rightArrow.svg": "/NutriCare/static/media/rightArrow.3bfd27e3e629c4a5a30753c60a3b207e.svg",
     "static/media/leftArrow.svg": "/NutriCare/static/media/leftArrow.fd7b35ba2f8115207437a387417d2b32.svg",
     "main.b8baf163.css.map": "/NutriCare/static/css/main.b8baf163.css.map",
-    "main.93c770be.js.map": "/NutriCare/static/js/main.93c770be.js.map"
+    "main.2229ab27.js.map": "/NutriCare/static/js/main.2229ab27.js.map"
   },
   "entrypoints": [
     "static/css/main.b8baf163.css",
-    "static/js/main.93c770be.js"
+    "static/js/main.2229ab27.js"
   ]
 }
