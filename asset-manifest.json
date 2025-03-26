@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/NutriCare/static/css/main.0614e806.css",
+    "main.js": "/NutriCare/static/js/main.11f5e856.js",
+    "static/media/image2.png": "/NutriCare/static/media/image2.627d2ab8d8aa5decada5.png",
+    "static/media/hero_image.png": "/NutriCare/static/media/hero_image.a11e76d7128fca43ec97.png",
+    "static/media/image3.png": "/NutriCare/static/media/image3.90ee23b77b8db078bc9d.png",
+    "static/media/t-image3.png": "/NutriCare/static/media/t-image3.3ddf99a7f27cdda45f58.png",
+    "static/media/image1.png": "/NutriCare/static/media/image1.d17bf3695473f38177d3.png",
+    "static/media/t-image2.png": "/NutriCare/static/media/t-image2.e0ad4168a58abfad0fca.png",
+    "static/media/t-image1.png": "/NutriCare/static/media/t-image1.b7ac4650c1ee98740c9c.png",
+    "static/media/hero_image_back.png": "/NutriCare/static/media/hero_image_back.94a76814d7d95c4547a9.png",
+    "static/media/tick.svg": "/NutriCare/static/media/tick.31947d3fa37d6e1ce6d3e1c9c13eeca2.svg",
+    "index.html": "/NutriCare/index.html",
+    "main.0614e806.css.map": "/NutriCare/static/css/main.0614e806.css.map",
+    "main.11f5e856.js.map": "/NutriCare/static/js/main.11f5e856.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0614e806.css",
+    "static/js/main.11f5e856.js"
+  ]
+}
